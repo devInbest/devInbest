@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @devInbest
+# 👋 Hi, I’m Dev@Inbest
 
 I'm a **Lead Software Developer** passionate about building scalable web applications and leading high-impact development teams. With a strong background in full-stack development, I specialize in JavaScript, React, Node.js, and modern web architectures.
 
